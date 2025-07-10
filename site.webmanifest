@@ -1,7 +1,7 @@
 {
-    "name": "SSO Tools - Free AI-Powered SSO Tools & Testing Platform",
-    "short_name": "SSOTools",
-    "description": "SSOTools provides completely free AI-powered tools for SSO testing, SAML/OAuth validation, security assessment, and identity provider integration. Get instant, professional-grade insights without registration.",
+    "name": "APIFiddler - Free AI-Powered API Testing & Debugging Platform",
+    "short_name": "APIFiddler",
+    "description": "APIFiddler provides completely free AI-powered tools for REST API testing, performance analysis, security scanning, and documentation generation. Get instant, professional-grade insights without registration.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -17,4 +17,4 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"
-}
+}   

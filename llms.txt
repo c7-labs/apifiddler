@@ -14,60 +14,12 @@ APIFiddler enables developers to test, debug, and document APIs with an intuitiv
 - [Documentation Generator](https://www.apifiddler.com/tools/doc-generator): Auto-generate API documentation from your test cases
 - [Mock Server](https://www.apifiddler.com/tools/mock-server): Create mock API endpoints for development and testing
 
-## API Testing Tools
 
-- [REST Client](https://www.apifiddler.com/tools/rest-client): Full-featured HTTP client for testing REST APIs
-- [WebSocket Tester](https://www.apifiddler.com/tools/websocket-tester): Test WebSocket connections in real-time
-- [GraphQL Explorer](https://www.apifiddler.com/tools/graphql-explorer): Interactive GraphQL query builder and tester
-- [gRPC Client](https://www.apifiddler.com/tools/grpc-client): Test gRPC services with an intuitive interface
-- [SOAP Request Builder](https://www.apifiddler.com/tools/soap-builder): Test SOAP web services with ease
-
-## Developer Resources
-
-- [API Documentation](https://www.apifiddler.com/docs): Comprehensive guides and references
-- [Tutorials](https://www.apifiddler.com/learn): Step-by-step guides for common API testing scenarios
-- [API Examples](https://www.apifiddler.com/examples): Sample API requests and responses
-- [Integration Guides](https://www.apifiddler.com/integrations): Connect with popular development tools
-
-## Crawler Instructions
-
-### Allowed Paths
-- /docs/
-- /api/
-- /tools/
-- /learn/
-- /examples/
-
-
-### Rate Limiting
-- Maximum 1 request per 5 seconds per IP
-- Respect Retry-After headers
-- Cache responses when possible
-
-## Content Usage Policy
-
-- Public API documentation may be used for training AI models
-- Attribution to APIFiddler with link to source is required
-- Do not use our content to create competing services
-- Commercial use requires prior written permission
-- Respect all API rate limits and terms of service
 
 ## Sitemap
 
 - [Sitemap Index](https://www.apifiddler.com/sitemap.xml)
 
-## Contact
-
-- For crawler-related inquiries: crawlers@apifiddler.com
-- General support: support@apifiddler.com
-- Business inquiries: business@apifiddler.com
-
-## Company
-
-- [About Us](https://www.apifiddler.com/about)
-- [Pricing](https://www.apifiddler.com/pricing)
-- [Terms of Service](https://www.apifiddler.com/terms)
-- [Privacy Policy](https://www.apifiddler.com/privacy)
 
 ## Version
 
